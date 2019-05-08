@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#009688</item>
+        <item name="colorPrimaryDark">#00796B</item>
+        <item name="colorAccent">#536DFE</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light">-->
+        <!--&lt;!&ndash; Primary theme color of the app (sets background color of app bar) &ndash;&gt;-->
+        <!--<item name="colorPrimary">#FF9800</item>-->
+        <!--&lt;!&ndash; Background color of buttons in the app &ndash;&gt;-->
+        <!--<item name="colorButtonNormal">#FF9800</item>-->
+    <!--</style>-->
+    <style name="HeaderTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textAllCaps">true</item>
+        <!--<item name="android:textColor">#4527A0</item>-->
+        <!--<item name="android:textStyle">italic</item>-->
+    </style>
+</resources>
+
