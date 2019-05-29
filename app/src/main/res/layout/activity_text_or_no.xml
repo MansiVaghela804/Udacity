@@ -18,10 +18,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Name"
-            android:inputType="textCapWords"/>
+            android:inputType="textCapWords" />
+
         <TextView
-            android:text="Toppings"
-            style="@style/HeaderTextStyle" />
+            style="@style/HeaderTextStyle"
+            android:text="Toppings" />
 
         <CheckBox
             android:id="@+id/whipped_cream_checkbox"
@@ -41,8 +42,8 @@
 
 
         <TextView
-            android:text="Quatity"
-            style="@style/HeaderTextStyle" />
+            style="@style/HeaderTextStyle"
+            android:text="Quatity" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -75,21 +76,21 @@
         </LinearLayout>
 
         <!--<TextView-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_marginTop="16dp"-->
-            <!--android:layout_marginBottom="16sp"-->
-            <!--android:fontFamily="sans-serif-light"-->
-            <!--android:text="Order Summary"-->
-            <!--android:textAllCaps="true"-->
-            <!--android:textColor="@android:color/black" />-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginTop="16dp"-->
+        <!--android:layout_marginBottom="16sp"-->
+        <!--android:fontFamily="sans-serif-light"-->
+        <!--android:text="Order Summary"-->
+        <!--android:textAllCaps="true"-->
+        <!--android:textColor="@android:color/black" />-->
 
         <!--<TextView-->
-            <!--android:id="@+id/order_summary_text_view"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:text="$0"-->
-            <!--android:textColor="@android:color/black" />-->
+        <!--android:id="@+id/order_summary_text_view"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="$0"-->
+        <!--android:textColor="@android:color/black" />-->
 
         <Button
             android:layout_width="wrap_content"

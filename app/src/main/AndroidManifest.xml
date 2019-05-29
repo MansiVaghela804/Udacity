@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".LogExampleActivity"></activity>
-        <activity android:name=".MenuActivity" />
+        <activity android:name=".MenuActivity" ></activity>
         <activity android:name=".CookiesActivity" />
         <activity android:name=".JustJavaActivity" />
         <activity android:name=".CourtCounterActivity" />

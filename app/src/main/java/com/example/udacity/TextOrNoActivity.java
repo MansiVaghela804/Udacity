@@ -12,10 +12,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import org.json.JSONObject;
-
-import java.text.NumberFormat;
-
 public class TextOrNoActivity extends AppCompatActivity {
 
     int quantity = 2;
